@@ -16,7 +16,7 @@
 @import '../../css/reset.scss';
 
 .home {
-    width: 750px;
+    width: 100%;
     height: 100px;
     background: #ccc;
 }
